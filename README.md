@@ -1,4 +1,4 @@
-# <Week0>
+# Study Guide Page
 
 ## Description
 
